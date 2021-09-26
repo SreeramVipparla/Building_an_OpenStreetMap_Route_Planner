@@ -31,9 +31,7 @@ To clone the project:
   * Installation instructions for all operating systems can be found [here](https://github.com/cpp-io2d/P0267_RefImpl/blob/master/BUILDING.md)
   * This library must be built in a place where CMake `find_package` will be able to find it
 
-## Compiling and Running
-
-### Compiling
+## Compiling
 To compile the project, first, create a `build` directory and change to that directory:
 ```
 mkdir build && cd build
@@ -43,7 +41,7 @@ From within the `build` directory, then run `cmake` and `make` as follows:
 cmake ..
 make
 ```
-### Running
+## Running
 The executable will be placed in the `build` directory. From within `build`, the project can be run as follows:
 ```
 ./OSM_A_star_search
