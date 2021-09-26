@@ -1,7 +1,7 @@
 # Building an OpenStreetMap Route Planner Project
 
 # Introdution
-The project that I have created involves the use of OpenStreetMap data and an IO2D map display code and also involves the extension ofthe IO2D map display code to use the  A* algorithm. The program will be able to find a path between two points on the map. On runing the project, you will be able to select the starting and ending areas on a city map, and your program will find
+In this project that I have developed  involves the use of OpenStreetMap data and an IO2D map display code and also involves the extension of the IO2D map display code to use the  A* algorithm. The program will be able to find a path between two points on the map. On running the prograqm, you will be able to select the starting and ending areas on a city map, and your program will find
 a path along the city streets to connect the start and end.
 
 <img src="map.png" width="600" height="450" />
