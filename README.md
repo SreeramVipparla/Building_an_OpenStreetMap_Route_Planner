@@ -5,7 +5,7 @@
 <img src="https://user-images.githubusercontent.com/86887626/134796567-d32af074-4880-4d7e-8363-e818ffbadb38.jpg" width="1000" height="250"/>
 
 ## Introdution
-In this project I have developed the  OpenStreetMap data and an IO2D map display code and also involves the extension of the IO2D map display code to use the  A* algorithm. The program will be able to find the shortest path between two points on the map. On running the program, you will be able to select the starting and ending areas on a city map, and this program will find
+In this project I have developed the  OpenStreetMap data and an IO2D map display code and also involves the extension of the IO2D map display code to use the  A* algorithm using C++. The program will be able to find the shortest path between two points on the map. On running the program, you will be able to select the starting and ending areas on a city map, and this program will find
 the shortest path along the city streets to connect the start and end.
 
 <img src="map.png" width="600" height="450" />
